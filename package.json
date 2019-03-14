@@ -1,0 +1,28 @@
+{
+  "name": "RESTAPI",
+  "version": "1.0.0",
+  "description": "Restful todoListApi",
+  "main": "y",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/suneethar/nodejsRestfulApi.git"
+  },
+  "keywords": [
+    "RESTFUL",
+    "API",
+    "TUTORIAL"
+  ],
+  "author": "y",
+  "license": "UNLICENCED",
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  },
+  "dependencies": {
+    "express": "^4.16.4",
+    "mongoose": "^5.4.19"
+  }
+}
